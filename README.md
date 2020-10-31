@@ -1,1 +1,2 @@
-# tasks_app
+npm install - to install dependecy
+npm start - to start development server
